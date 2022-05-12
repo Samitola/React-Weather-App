@@ -20,7 +20,7 @@ export default function Weather() {
       </form>
       <h1>New York</h1>
       <ul>
-        <li>Thursday 10:00</li>
+        <li>Thursday 10:00am</li>
         <li>Cloudy</li>
       </ul>
       <div className="row">
