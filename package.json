@@ -28,7 +28,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/Samitola/react-weather-app",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
