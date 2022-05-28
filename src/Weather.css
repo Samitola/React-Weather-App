@@ -2,18 +2,16 @@
   border: 1px solid #dadde1;
   font-family: Arial, sans-serif;
   padding: 16px;
-
   border-radius: 4px;
 }
 
-.Weather form {
-  margin-bottom: 20px;
-}
 
 .Weather h1 {
   color: black;
   font-size: 24px;
   font-weight: 100;
+  line-height: 29px;
+  margin: 20px 0 0 0;
   line-height: 29px;
 }
 
@@ -29,17 +27,13 @@
   list-style: none;
 }
 
-.Weather .img {
-  height: 64;
-  margin-right: 10px;
-}
-
 .Weather .temperature {
   font-weight: bold;
   color: black;
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  margin-left: 10px;
 }
 
 .Weather .unit {
